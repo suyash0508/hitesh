@@ -1,0 +1,17 @@
+  body {
+          background-color: rgba(0, 237, 255, 0.19);
+      }
+      h1{
+          color:coral  
+        }
+      h2{
+          color:crimson 
+        }
+      hr { 
+          border-style: none;
+            border-top-style: dotted;
+        height:0px;
+        border-width:8px;
+       border-color: gray;
+      width: 3%;
+    }
